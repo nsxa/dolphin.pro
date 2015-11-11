@@ -68,7 +68,6 @@ class BxDolAdminTools extends BxDolIO
             'flash/modules/desktop/xml/langs.xml',
             'flash/modules/desktop/xml/main.xml',
             'flash/modules/desktop/xml/skins.xml',
-            'flash/modules/global/app/ffmpeg.exe',
             'flash/modules/global/xml/config.xml',
             'flash/modules/global/xml/main.xml',
             'flash/modules/im/xml/config.xml',
